@@ -109158,6 +109158,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AuGVGA7zu8AnMnedB28gnxJXkNvzPZS6u2GMDtbRJ5HM",
+      "symbol": "DUMPS",
+      "name": "Dumps Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DumpsandPumps/dumpstoken/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
